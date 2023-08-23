@@ -1,0 +1,164 @@
+[
+    [
+    {
+      "Whatsminer m30s++ 100th":
+        {
+          "thpers":100,
+          "power":3500
+        }
+    },
+    {
+      "Whatsminer m30s++ 102th":
+        {
+          "thpers":102,
+          "power":3500
+        }
+    },
+    {
+      "Whatsminer m30s++ 104th":
+        {
+          "thpers":104,
+          "power":3500
+        }
+    },
+    {
+      "Whatsminer m30s++ 106th":
+        {
+          "thpers":106,
+          "power":3500
+        }
+    },
+    {
+      "Whatsminer m30s++ 108th":
+        {
+          "thpers":108,
+          "power":3500
+        }
+    },
+    {
+      "Whatsminer m30s++ 110th":
+        {
+          "thpers":110,
+          "power":3500
+        }
+    },{
+      "Whatsminer m50 110th":
+        {
+          "thpers":110,
+          "power":3500
+        }
+    },
+    {
+      "Whatsminer m50 112th":
+        {
+          "thpers":112,
+          "power":3500
+        }
+    },
+    {
+      "Whatsminer m50 114th":
+        {
+          "thpers":114,
+          "power":3500
+        }
+    },
+    {
+      "Whatsminer m50 118th":
+        {
+          "thpers":118,
+          "power":3500
+        }
+    },
+    {
+      "Whatsminer m50 120th":
+        {
+          "thpers":120,
+          "power":3500
+        }
+    },
+    {
+      "Whatsminer m50 122th":
+        {
+          "thpers":122,
+          "power":3500
+        }
+    },
+    {
+      "Whatsminer m50 124th":
+        {
+          "thpers":124,
+          "power":3500
+        }
+    },
+    {
+      "Whatsminer m50 126th":
+        {
+          "thpers":126,
+          "power":3500
+        }
+    },
+    {
+      "Whatsminer m50 128th":
+        {
+          "thpers":128,
+          "power":3500
+        }
+    },
+    {
+      "Whatsminer m50s++ 130th":
+        {
+          "thpers":130,
+          "power":3500
+        }
+    },
+    {
+      "Whatsminer m50s++ 136th":
+        {
+          "thpers":136,
+          "power":3500
+        }
+    },
+    {
+      "Whatsminer m50s++ 140th":
+        {
+          "thpers":140,
+          "power":3500
+        }
+    },
+    {
+      "Whatsminer m50s++ 150th":
+        {
+          "thpers":150,
+          "power":3500
+        }
+    },
+    {
+      "Antminer L7 9500":
+        {
+          "thpers":9500,
+          "power":3500
+        }
+    },
+    {
+      "Antminer L7 9050":
+        {
+          "thpers":9050,
+          "power":3500
+        }
+    },
+    {
+      "Antminer L7 8800":
+        {
+          "thpers":8800,
+          "power":3500
+        }
+    },
+    {
+      "Antminer E9 Pro 3680":
+        {
+          "thpers":3680,
+          "power":3500
+        }
+    }
+  ]
+  ]
